@@ -1,0 +1,19 @@
+.caption {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #6c757d;
+    text-align: left;
+}
+
+.backg {
+    background-color: bisque;
+}
+
+.dafont {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.yessah {
+    text-align: center;
+}
